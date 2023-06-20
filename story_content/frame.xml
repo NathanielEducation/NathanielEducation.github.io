@@ -1574,11 +1574,6 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6iAvEJ7DNub" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6iAvEJ7DNub.6I9zg6mppPE" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
         <slidelink slideid="_player.68X3QerKj5M" displaytext="CloudCopy" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.68X3QerKj5M.6iAFsgnzxHx" displaytext="Introduction to Memory: Why Is It So Important?" expand="false" type="slide" />
